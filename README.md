@@ -1,6 +1,6 @@
 # copilot-canvas-blog-demo
 
-demo repository for the GitHub Copilot Canvas blog article, very simple, not trying to say much
+demo repository for the GitHub Copilot Canvas blog article
 
 ## Repository Issues Kanban
 
